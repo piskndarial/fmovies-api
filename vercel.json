@@ -2,7 +2,7 @@
     "name": "Fmovies-api",
     "version": 2,
     "builds": [
-        { "src": "*.py", "use": "@liudonghua123/now-flask" }
+        { "src": "*.py", "use": "@atikur_rabbi/now-flask" }
     ],
     "routes": [
         { "src": "(.*)", "dest": "app.py" }
